@@ -1,0 +1,32 @@
+.app-container {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Navbar styles */
+.navbar {
+  padding: 1rem 2rem;
+}
+
+/* Hero section styles */
+.hero {
+  padding: 4rem 2rem;
+}
+
+/* Features section styles */
+.features {
+  padding: 4rem 2rem;
+  background-color: #f9fafb;
+}
+
+/* Testimonials section styles */
+.testimonials {
+  padding: 4rem 2rem;
+}
+
+/* Footer styles */
+.footer {
+  padding: 2rem;
+  background-color: #1f2937;
+  color: white;
+}
